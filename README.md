@@ -3,7 +3,7 @@
 
 ### 🔗 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-gregorysteve1@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gregorysteve1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-gregorysteve656@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gregorysteve656@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/254719637416)
 [![Portfolio](https://img.shields.io/badge/Portfolio-gregory--steve.web.app-blue?style=flat&logo=firebase&logoColor=white)](https://gregory-steve.web.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-%40reddevcode-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/reddevcode)
