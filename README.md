@@ -1,158 +1,105 @@
-<!-- ===================== COSMIC GLASS HEADER ===================== -->
+<!-- ===================== ULTRA SHINY HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Gregory%20Steve&fontSize=80&fontColor=ffffff&animation=twinkling&color=0:000428,50:004e92,100:000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Gregory%20Steve&fontSize=90&fontColor=FFD700&animation=twinkling&color=0:0f2027,50:203a43,100:2c5364" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=00F5FF&center=true&vCenter=true&width=1000&lines=🚨+GLOBAL+TECH+BROADCAST+LIVE;Gregory+Steve+%7C+Elite+Software+Engineer;Glassy+UIs+%7C+Distributed+Systems+%7C+Cyber-Aware;This+Profile+Is+Not+Beginner+Safe;If+You+Understand+Everything+Here+—+You're+Already+Elite" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=900&color=00FFF0&center=true&vCenter=true&width=900&lines=Elite+Full-Stack+Software+Engineer;Glassy+UI+Mindset+%7C+Scalable+Systems+%7C+Secure+Code;Building+Production-Grade+Software" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=7f00ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=gregory656&label=PROFILE+VIEWS&color=8a2be2&style=for-the-badge" />
   <br/>
-  <strong>👁️ 2,174 humans witnessed this repository</strong>
+  <strong>👁️ 2,174 Profile Views</strong>
 </p>
 
 ---
 
-##  GLOBAL TECH ALERT
-> **Breaking:**  
-> *Gregory Steve operates at production scale, writes opinionated systems, and designs interfaces that feel like the future.*
-
----
-
-##  ENGINEERING DNA
-```ts
-type Level = "Normal" | "Advanced" | "Elite"
-
-class Engineer {
-  constructor(
-    public name: string,
-    public role: string,
-    public level: Level,
-    public principles: string[],
-    public systemThreat: "Moderate" | "High" | "CRITICAL"
-  ) {}
-}
-
-const GregorySteve = new Engineer(
-  "Gregory Steve",
-  "Full-Stack Software Engineer",
-  "Elite",
-  [
-    "Architecture before features",
-    "Security by default",
-    "Performance is non-negotiable",
-    "Design must feel invisible"
-  ],
-  "CRITICAL"
-)
-
-
----
-
-⚔️ TECHNOLOGY ARSENAL (DO NOT UNDERESTIMATE)
-
-🧩 Core Languages
-
+##  CORE SKILLS
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,dart,cpp&theme=dark" />
-</p>Frameworks / Platforms
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flutter&theme=dark" />
-</p> Databases / Cloud
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,sqlite&theme=dark" />
-</p> DevOps / OS / Design
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark" />
 </p>
----
-
- LIVE SKILL TELEMETRY
-
-Frontend Engineering    ████████████████████ 93%
-Backend Systems         ██████████████████   90%
-API Design              ██████████████████   88%
-Databases               █████████████████    86%
-Cybersecurity           ████████████████     82%
-System Design           ████████████████     80%
-
 
 ---
 
- DEPLOYMENT ZONES
-
- Scalable Web Platforms
- Secure Auth & API Systems
- Cross-Platform Mobile Engineering
- Architecture & System Design
-
-> I don’t chase trends. I build infrastructure.
-
-
-
+##  WHAT I BUILD
+- High-performance web applications  
+- Secure backend APIs & authentication systems  
+- Cross-platform mobile applications  
+- Clean, maintainable, production-ready code  
 
 ---
 
-🧬 LIVE GITHUB INTELLIGENCE
-
+##  GITHUB ACTIVITY
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gregory656&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gregory656&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gregory656&theme=tokyo-night&hide_border=true" />
 </p>
+
 ---
 
-🎧 NOW PLAYING (LIVE VIBE)
-
+##  CONNECT WITH ME
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
-</p>
----
-
-🧠 PROBLEM-SOLVING PROOF
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=activity" />
-</p>
----
-
- CONTACT HUB
-
-<p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-000428?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://gregory-steve.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-004e92?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/gregory656" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_GITHUB_LINK">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://facebook.com/gregorysteveotieno" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="YOUR_X_LINK">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://instagram.com/reddevcode" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:gregorysteve656@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 ---
 
-⚠️ FINAL WARNING
-
-> This profile contains elite-level engineering concepts,
-real-world systems thinking, and non-trivial codebases.
-
-Side effects include:
-confidence spikes, recruiter attention, and sudden career clarity.
-
-
-
+##  SPECIAL REPO SHOWCASE
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&text=BUILDING+THE+FUTURE+IN+PUBLIC&fontSize=36&fontColor=ffffff&color=0:000428,100:004e92" />
+  <a href="https://github.com/gregory656/awesome-project-1" target="_blank">
+    <img src="https://img.shields.io/badge/Awesome-Project-1-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/gregory656/awesome-project-2" target="_blank">
+    <img src="https://img.shields.io/badge/Awesome-Project-2-8a2be2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/gregory656/awesome-project-3" target="_blank">
+    <img src="https://img.shields.io/badge/Awesome-Project-3-00ffff?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+##  EXTRA BADGES & STATUS
+<p align="center">
+  <img src="https://img.shields.io/badge/Full-Stack-Ready-success?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Clean-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/UX-Glassy-ff1493?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deploy-🚀-ff8c00?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+##  GLASSY FOOTER
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=140&text=BUILDING+THE+FUTURE+IN+PUBLIC&fontSize=34&fontColor=ffffff&color=0:0f2027,100:203a43" />
 </p>
