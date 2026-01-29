@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gregory656&label=PROFILE+VIEWS&color=8a2be2&style=for-the-badge" />
   <br/>
-  <strong>👁️ 2,174 Profile Views</strong>
+  <strong>👁️ 8,174 Profile Views</strong>
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ---
 
 ##  WHAT I BUILD
-- High-performance web applications  
+- High-performance web && MOBILE applications  
 - Secure backend APIs & authentication systems  
 - Cross-platform mobile applications  
 - Clean, maintainable, production-ready code  
@@ -99,7 +99,7 @@
 
 ---
 
-##  GLASSY FOOTER
+## FOOTER INFORMATION
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=140&text=BUILDING+THE+FUTURE+IN+PUBLIC&fontSize=34&fontColor=ffffff&color=0:0f2027,100:203a43" />
 </p>
