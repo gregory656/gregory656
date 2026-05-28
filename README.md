@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=900&color=00FFF0&center=true&vCenter=true&width=900&lines=Elite+Full-Stack+Software+Engineer;Glassy+UI+Mindset+%7C+Scalable+Systems+%7C+Secure+Code;Building+Production-Grade+Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=900&color=00FFF0&center=true&vCenter=true&width=900&lines=Elite+Full-Stack+Software+Engineer;Startup Founder+CEO+Mindset+%7C+Scalable+Systems+%7C+Secure+Code;Building+Production-Grade+Software" />
 </p>
 
 <p align="center">
